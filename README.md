@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Panos</h1>
-<h3 align="center">Passionate to learn and write code</h3>
+<h3 align="center">Passionate about coding and constantly seeking new challenges</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611a3b34cdf9a247d817d48d4f05fc129c8a1bd1f02&rid=giphy.gif&ct=g">
 
